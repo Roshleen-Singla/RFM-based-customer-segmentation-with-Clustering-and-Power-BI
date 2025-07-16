@@ -18,7 +18,7 @@ Customer segmentation using RFM analysis and K-Means clustering in Python, visua
 
 ## Dashboard Preview
 
-![Dashboard](dashboard_customer_segementation.png)
+![Dashboard](dashboard.png)
 
 ## Outcome
 

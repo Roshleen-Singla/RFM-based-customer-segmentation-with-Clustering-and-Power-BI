@@ -21,7 +21,7 @@ This project demonstrates how data-driven customer segmentation solves these pro
 **Approach:** RFM (Recency, Frequency, Monetary) analysis combined with K-Means clustering to create actionable customer segments.
 
 **Dataset:** 
-- 4,300+ customers
+- 348 customers
 - Transaction history across multiple time periods
 - Revenue, purchase frequency, and engagement data
 
@@ -30,7 +30,7 @@ This project demonstrates how data-driven customer segmentation solves these pro
 ## 🔍 Key Business Insights
 
 ### 1. Revenue Concentration
-**Finding:** Top 3% of customers (114 customers) generate 56% of total revenue (₹6.13M out of ₹10.8M)
+**Finding:** Top 3% of customers (114 customers) generate 56% of total 48revenue (₹6.13M out of ₹10.8M)
 
 **Business Impact:** 
 - Losing even 10% of these VIP customers = ₹613K annual revenue loss
